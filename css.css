@@ -88,10 +88,9 @@ body {
 #content h1 {
     color: #0090d9;
     text-align: right; 
-    margin-right: 100px; 
+    margin-right: 30px; 
     font-size: 18px;
-    padding: 4px 0;
-
+    padding-bottom: 0;
 }
 
 
@@ -111,4 +110,8 @@ body {
     border-top: 1px dotted #ccc;
     padding-top: 10px;
     margin-top: 20px;
+}
+
+.raya{
+    color:#0090d9;
 }
