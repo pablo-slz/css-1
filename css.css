@@ -40,11 +40,11 @@ body {
 
 #navigation {
     width: 160px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     padding: 8px;
     font-size: 13px;
     color: #0090d9;
-    background-color: #fff;
+    background-color: #efeded;
     margin: 0; 
 }
 
@@ -61,7 +61,7 @@ body {
     font-weight: bold;
     color: #0090d9;
     text-align: right;
-    border-bottom: 1px dotted #ccc;
+    border-bottom: 2px dotted #ccc;
     padding-bottom: 3px;
     margin-bottom: 5px;
 }  
@@ -112,4 +112,3 @@ body {
     padding-top: 10px;
     margin-top: 20px;
 }
-
