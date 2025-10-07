@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family:  Helvetica;
+    background-color: #ffffff;
+    color: #333;
+}
+
+#main {          
+    margin: 0 auto;         
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+#top-nav {
+    font-size: 26px;
+    padding: 15px;
+    color: #0090d9;
+    text-align: justify;
+}
+
+#top-nav b {
+    color: #0004ff;
+}
